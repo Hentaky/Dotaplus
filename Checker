@@ -1,1 +1,9 @@
-true
+{
+  "dotaplus": {
+    "data": {
+      "m_bIsValid": {
+        "value": true,
+      }
+    },
+    "comment": null
+  },
