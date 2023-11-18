@@ -31,6 +31,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hentaky/Hentaky/output/snake.svg" alt="Snake animation" />
 
 ###
