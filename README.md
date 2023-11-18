@@ -1,26 +1,36 @@
+<h2 align="left">Hentaky</h2>
 
-# Dota plus
+###
 
-Free Dota plus
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hentaky&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hentaky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-## Authors
+<img align="right" height="150" src="https://media.tenor.com/2h9xhpYLKooAAAAi/furro.gif"  />
 
-- [@Hentaky](https://github.com/Hentaky)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+</div>
 
-## Features
+###
 
-- Free dota plus 
-- maybe I'll add something else later
+<div align="left">
+  <a href="hentaky" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=hentaky&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
+###
 
-# Dota plus
+<br clear="both">
 
-Free Dota plus
+<img src="https://raw.githubusercontent.com/Hentaky/Hentaky/output/snake.svg" alt="Snake animation" />
 
-
-## Support
-
-For support, discord:hentaky.
-
+###
