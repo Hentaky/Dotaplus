@@ -1,10 +1,10 @@
 {
-  "dotaplus": {
-    "data": {
-      "m_bIsValid": {
-        "value": 1
-      }
-    },
-    "comment": null
-  }
+    "dotaplus": {
+        "data": {
+            "m_bIsValid": {
+                "value": 1
+            }
+        },
+        "comment": null
+    }
 }
