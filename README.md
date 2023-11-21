@@ -1,4 +1,4 @@
-<h2 align="left">work on 7.34e</h2> 
+<h2 align="left">Work on Dota Patch 7.34e</h2> 
 
 ###
 
